@@ -1,0 +1,23 @@
+{
+  "name": "tabletapi",
+  "version": "1.0.0",
+  "description": "tablets and their brands API",
+  "main": "'",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "restify": "4.1.1",
+    "save": "2.3.0"
+  },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/abhinavs12/Test_Enterprise.git"
+    },
+    "author": "ABHINAV SHARMA",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/abhinavs12/Test_Enterprise/issues"
+    },
+    "homepage": "https://github.com/abhinavs12/Test_Enterprise#readme"
+  }
